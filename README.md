@@ -7,4 +7,4 @@
 > 2.	Labels folders: each category has a . csv file.
 > 3.	Categories_names. xlsx: Sheet1 lists the names of 46 categories, and the Sheet2 shows the associated multi-label to each category.
 
-### However, there are some problems with the original data labeling,such as label mised and label wrong annotated. The new Labels Folder after modification are shown in the labels folder. For the data set divided into training-validation and test were 1:1.The total number of training tests is 54,588, and the total number of test sets was 54,573. The list divided is in train_val.txt and test.txt respectively.
+### However, there are some problems with the original data labeling, such as label mised and label wrong annotated. The new Labels Folder after modification are shown in the labels folder. For the data set divided into training-validation and test were 1:1. The total number of training tests is 54,588, and the total number of test sets was 54,573. The list divided is in train_val.txt and test.txt respectively.
